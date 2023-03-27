@@ -2,7 +2,7 @@
 // @name         Gixen Timer Bypass
 // @namespace    http://gixen.com/
 // @version      0.2
-// @description  Bypasses the Gixen timer
+// @description  Bypasses the 20/60 second timer that nags you to get Gixen Mirror
 // @author       You
 // @match        https://www.gixen.com/main/home_2.php?sessionid=*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=gixen.com
